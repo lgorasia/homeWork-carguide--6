@@ -1,0 +1,44 @@
+2022-05-18 10:05:369 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 10:05:597 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 11:05:926 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 11:05:146 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 11:05:634 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 11:05:349 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 12:05:448 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 12:05:749 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 12:05:669 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 12:05:945 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 12:05:953 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 20:05:98 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 20:05:728 INFO  HomePage :30 - clickOnBuySell : [[ChromeDriver: chrome on WINDOWS (56820cac555983f8e50465f51b81e2eb)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 20:05:749 INFO  HomePage :34 - clickOnSearchCar : [[ChromeDriver: chrome on WINDOWS (56820cac555983f8e50465f51b81e2eb)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 20:05:797 INFO  HomePage :41 - newAndUsedCarText : [[ChromeDriver: chrome on WINDOWS (56820cac555983f8e50465f51b81e2eb)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 20:05:140 INFO  HomePage :46 - clickOnMake : [[ChromeDriver: chrome on WINDOWS (56820cac555983f8e50465f51b81e2eb)] -> xpath: //select[@id='makes']]
+2022-05-19 20:05:351 INFO  HomePage :50 - clickOnModel : [[ChromeDriver: chrome on WINDOWS (56820cac555983f8e50465f51b81e2eb)] -> xpath: //select[@id='models']]
+2022-05-19 20:05:487 INFO  HomePage :54 - clickOnLocation : [[ChromeDriver: chrome on WINDOWS (56820cac555983f8e50465f51b81e2eb)] -> xpath: //select[@id='locations']]
+2022-05-19 20:05:599 INFO  HomePage :58 - clickOnprice : [[ChromeDriver: chrome on WINDOWS (56820cac555983f8e50465f51b81e2eb)] -> xpath: //select[@id='priceTo']]
+2022-05-19 20:05:501 INFO  HomePage :62 - clickOnFindMyNextCar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 20:05:573 INFO  HomePage :65 - resultText : [[ChromeDriver: chrome on WINDOWS (56820cac555983f8e50465f51b81e2eb)] -> css selector: div.container.search-results-container:nth-child(4) div.search-results-page.ng-scope:nth-child(1) div.row div.listing-col.listing-col-title.col-sm-16.col-md-12.col-lg-13.col.location-set:nth-child(3) > h1.listing-search-title]
+2022-05-19 20:05:629 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 20:05:908 INFO  HomePage :30 - clickOnBuySell : [[ChromeDriver: chrome on WINDOWS (13339c8409c1ef566a4a105eb5bf8825)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 20:05:237 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 20:05:140 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 20:05:285 INFO  HomePage :30 - clickOnBuySell : [[ChromeDriver: chrome on WINDOWS (52d53c19be1eb255894e899730fdbfe5)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 20:05:430 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 20:05:673 INFO  HomePage :30 - clickOnBuySell : [[ChromeDriver: chrome on WINDOWS (5fbf2af0eb44f6ab76d3a3af85f9e10e)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 20:05:345 INFO  HomePage :34 - clickOnSearchCar : [[ChromeDriver: chrome on WINDOWS (5fbf2af0eb44f6ab76d3a3af85f9e10e)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 20:05:465 INFO  HomePage :41 - newAndUsedCarText : [[ChromeDriver: chrome on WINDOWS (5fbf2af0eb44f6ab76d3a3af85f9e10e)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 20:05:864 INFO  HomePage :46 - clickOnMake : [[ChromeDriver: chrome on WINDOWS (5fbf2af0eb44f6ab76d3a3af85f9e10e)] -> xpath: //select[@id='makes']]
+2022-05-19 20:05:992 INFO  HomePage :50 - clickOnModel : [[ChromeDriver: chrome on WINDOWS (5fbf2af0eb44f6ab76d3a3af85f9e10e)] -> xpath: //select[@id='models']]
+2022-05-19 20:05:152 INFO  HomePage :54 - clickOnLocation : [[ChromeDriver: chrome on WINDOWS (5fbf2af0eb44f6ab76d3a3af85f9e10e)] -> xpath: //select[@id='locations']]
+2022-05-19 20:05:264 INFO  HomePage :58 - clickOnprice : [[ChromeDriver: chrome on WINDOWS (5fbf2af0eb44f6ab76d3a3af85f9e10e)] -> xpath: //select[@id='priceTo']]
+2022-05-19 20:05:865 INFO  HomePage :62 - clickOnFindMyNextCar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 20:05:933 INFO  HomePage :65 - resultText : [[ChromeDriver: chrome on WINDOWS (5fbf2af0eb44f6ab76d3a3af85f9e10e)] -> css selector: div.container.search-results-container:nth-child(4) div.search-results-page.ng-scope:nth-child(1) div.row div.listing-col.listing-col-title.col-sm-16.col-md-12.col-lg-13.col.location-set:nth-child(3) > h1.listing-search-title]
+2022-05-19 20:05:964 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 20:05:820 INFO  HomePage :30 - clickOnBuySell : [[ChromeDriver: chrome on WINDOWS (16cc224f2ba6d851802366f412a2f0db)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 20:05:434 INFO  HomePage :34 - clickOnSearchCar : [[ChromeDriver: chrome on WINDOWS (16cc224f2ba6d851802366f412a2f0db)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 20:05:554 INFO  HomePage :41 - newAndUsedCarText : [[ChromeDriver: chrome on WINDOWS (16cc224f2ba6d851802366f412a2f0db)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 20:05:850 INFO  HomePage :46 - clickOnMake : [[ChromeDriver: chrome on WINDOWS (16cc224f2ba6d851802366f412a2f0db)] -> xpath: //select[@id='makes']]
+2022-05-19 20:05:185 INFO  HomePage :50 - clickOnModel : [[ChromeDriver: chrome on WINDOWS (16cc224f2ba6d851802366f412a2f0db)] -> xpath: //select[@id='models']]
+2022-05-19 20:05:361 INFO  HomePage :54 - clickOnLocation : [[ChromeDriver: chrome on WINDOWS (16cc224f2ba6d851802366f412a2f0db)] -> xpath: //select[@id='locations']]
+2022-05-19 20:05:481 INFO  HomePage :58 - clickOnprice : [[ChromeDriver: chrome on WINDOWS (16cc224f2ba6d851802366f412a2f0db)] -> xpath: //select[@id='priceTo']]
